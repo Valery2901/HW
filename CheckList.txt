@@ -2,8 +2,11 @@ Tested By:
 Tester:
 Date:
 Application Name:
-Procedure:
+ID:
+Tittle:
+Precondition:
+Inputs:
 Expected Result:
+Actual Results:
+Comments:
 Pass/Fail:
-Actual Results/Comments:
-
